@@ -91,7 +91,7 @@ export default function Customizer() {
             </div>
             <div className="mt-6">
               <a
-                href={`https://wa.me/919787518289?text=${getWhatsAppMessage()}`}
+                href={`https://wa.me/919940668221?text=${getWhatsAppMessage()}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-[#ffc107] text-white font-bold py-3 px-8 rounded-lg hover:bg-[#ff9800] transition duration-300"
